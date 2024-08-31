@@ -80,5 +80,5 @@ To learn more about React Native, take a look at the following resources:
 
 
 ## For Setup on Windows 10 (Video -ref)
-Video:[Click Here to see video](https://www.youtube.com/watch?v=nwXUXt_QqU8)
+Video: [Click Here to see video](https://www.youtube.com/watch?v=nwXUXt_QqU8)
 
